@@ -1,7 +1,7 @@
 public with sharing class ContactHandlerTest {
     public ContactHandlerTest() {
         Contact newCon = new Contact();
-        newCon.FirstName = 'Kyle';
-        newCon.LastName = 'Bratlovsky';
+        newCon.FirstName = 'Eric';
+        newCon.LastName = 'Cartman';
     }
 }
